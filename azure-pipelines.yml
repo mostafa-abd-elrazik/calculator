@@ -5,7 +5,6 @@
 
 trigger:
 - master
-- addition-cleanup
 
 
 pool:
